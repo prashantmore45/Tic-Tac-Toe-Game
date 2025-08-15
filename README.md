@@ -19,3 +19,7 @@ The first player to get three in a row — horizontally, vertically, or diagonal
 - Displays winner or draw at the end
 - Option to restart the game
 
+# 🚀 Daily Progress Log
+
+Committed to learning, building, and improving every single day.  
+Every small step counts towards something big. 🌱
