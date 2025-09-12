@@ -8,12 +8,21 @@ body {
   text-align: center;
 }
 
+h1 {
+  background-color: #191913;
+  color: white;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .container {
   height: 70vh;
   display: flex;
-
   justify-content: center;
   align-items: center;
+  margin-top: 70px;
 }
 
 .game {
