@@ -9,15 +9,14 @@ The first player to get three in a row — horizontally, vertically, or diagonal
 - The game is played on a 3×3 board.
 - Player 1 uses **X** and Player 2 uses **O**.
 - Players take turns choosing an empty square.
-- The game ends when:
-  - A player gets 3 in a row (win)
-  - All squares are filled (draw)
-
+- The first player to align three symbols (row, column, or diagonal) wins.  
+- If all squares are filled without a winner, the game ends in a draw. 
 ## Features
 - Two-player local gameplay
 - Simple and intuitive interface
 - Displays winner or draw at the end
 - Option to restart the game
+
 
 # 🚀 Daily Progress Log
 
